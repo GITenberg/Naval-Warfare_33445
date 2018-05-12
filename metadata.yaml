@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36412
     wikipedia: http://en.wikipedia.org/wiki/James_Thursfield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33445#Naval-Warfare
 gutenberg_issued: '2010-08-16'
 gutenberg_type: Text
 identifiers:
